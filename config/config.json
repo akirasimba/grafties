@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x40B32bAc723C4430E7Bc34A6F3504c5Ba992E481",
-  "SCAN_LINK": "https://etherscan.io/address/0x2cc88ecfc7ac354faf3dd3cdbf80738b0abac9d1",
+  "CONTRACT_ADDRESS": "0x2232f0566c5E6D132f2f1C671c903070cF26FA04",
+  "SCAN_LINK": "https://etherscan.io/token/0x2232f0566c5e6d132f2f1c671c903070cf26fa04",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "oGrafties",
+  "NFT_NAME": "xGrafties",
   "SYMBOL": "GFS",
   "MAX_SUPPLY": 5406,
-  "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/oGrafties",
+  "MARKETPLACE_LINK": "https://opensea.io/xGrafties",
   "SHOW_BACKGROUND": true
 }
